@@ -1,5 +1,6 @@
 # BigQuery Utils
 
+Welcome to joseph's custom BigQuery commands created to experiment and potentailly create inovative convenient easy to use utilities. 
 BigQuery is a serverless, highly-scalable, and cost-effective cloud data
 warehouse with an in-memory BI Engine and machine learning built in. This
 repository provides useful utilities to assist you in migration and usage of
