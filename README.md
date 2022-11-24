@@ -1,4 +1,4 @@
-# BigQuery Utils
+# Joseph's Custom BigQuery Utils
 
 Welcome to joseph's custom BigQuery commands created to experiment and potentailly create innovative convenient easy to use utilities. 
 BigQuery is a serverless, highly-scalable, and cost-effective cloud data
